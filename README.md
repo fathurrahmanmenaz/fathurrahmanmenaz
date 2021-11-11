@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Fathur 👋
 
-<!--
-**fathurrahmanmenaz/fathurrahmanmenaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data enthusiast and tend to work in a system, for the systems, and tend to solve problems in a structural systems mindset.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on MyScoreCard, an HR management system by Monster Group, as a data scientist intern.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning on fourth-year Industrial Engineering student at Andalas University. Here, I have learned the importance of applying classical strategies to modern-day projects. Being focused on industrial management provide me a broad knowledge of both engineering and economic concepts. I also participated in several projects which invent remarkable products such as mobile app and an educational media.
+
+⚒ Throughout my career journey, I've worked at various fields of industry: Technology (MyScoreCard), Manufacturing (PT Semen Padang), NGO (Seruan Pemuda), Laboratory Assistant (Business and Management Laboratory).
+
+📫 How to reach me: fathurrahmanmenaz@gmail.com
+
+I'm best reached via Email or LinkedIn and I love to meet new friends! So, please feel free to reach me if you have any topics to be discussed or fascinating projects collaboration.
